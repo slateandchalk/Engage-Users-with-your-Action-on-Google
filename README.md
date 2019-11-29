@@ -1,5 +1,3 @@
-# Engage-Users-with-your-Action-on-Google
-
 # Actions on Google: User Engagement Codelab
 
 These samples serves as the completed source code for the [Actions on Google user engagement codelab](https://codelabs.developers.google.com/?cat=Assistant).
